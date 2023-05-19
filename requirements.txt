@@ -1,0 +1,2 @@
+psycopg2==2.9.3
+PyGreSQL==5.2.4
