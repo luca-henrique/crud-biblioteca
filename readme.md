@@ -10,8 +10,7 @@
 
 - CRUD Cliente
 - CRUD Funcionario
-- CRUD Livro
-- CRUD Categoria
+- CRUD Livro [ok]
 
 # Topicos relacionados
 
